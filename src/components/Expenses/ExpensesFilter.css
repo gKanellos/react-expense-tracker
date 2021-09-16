@@ -27,11 +27,11 @@
     background:none;
     border:none;
     font-size:1em;
-    padding:10px 20px;
+    padding:5px 10px;
   }
 
   button:focus{
-    background:#F0513B;
+    background:#EE3508;
     color:white;
     border-radius:4px;
   }
