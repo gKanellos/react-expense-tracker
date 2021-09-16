@@ -6,7 +6,7 @@ import Expenses from './components/Expenses/Expenses';
 const dummy_expenses = [
   {
     id: 'e1',
-    title: 'Toilet Paper',
+    title: 'Target',
     amount: 94.12,
     date: new Date(2020, 7, 14),
   },
